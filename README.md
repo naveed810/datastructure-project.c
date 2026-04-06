@@ -5,9 +5,10 @@ Route Finder using Graph (Dijkstra’s Algorithm)
 
 2. TEAM MEMBERS
 SK.NAVEED BASHA
+
 B.SUHRUTH
 
-3. PROBLEM STATEMENT
+4. PROBLEM STATEMENT
 
 This project implements a Route Finder System using a Graph Data Structure in C.
 
