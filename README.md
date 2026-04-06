@@ -1,4 +1,4 @@
-<img width="455" height="203" alt="Screenshot 2026-04-06 220517" src="https://github.com/user-attachments/assets/84dd1fa1-d45c-41cc-82cf-29a5a3962052" />📘 PROJECT README
+PROJECT README
 1. TITLE
 
 Route Finder using Graph (Dijkstra’s Algorithm)
